@@ -1,190 +1,133 @@
-# 👋 Marcelo Castillo – Portafolio SRE / DevOps
+# Marcelo Castillo  
+**Site Reliability Engineer (SRE) | DevOps Engineer | Cloud & Automation**
 
-Bienvenido a mi portafolio técnico.  
-Este repositorio documenta **competencias prácticas, formación y proyectos reales** enfocados en **Site Reliability Engineering (SRE)**, **DevOps**, **infraestructura**, **automatización** y **datos**.
+Ingeniero con enfoque **hands-on**, especializado en **operación, automatización y confiabilidad de sistemas**.  
+Experiencia práctica en **Linux, DevOps, Cloud Computing y CI/CD**, con documentación técnica verificable y laboratorios reproducibles.
 
-El objetivo es mostrar **qué sé hacer, cómo trabajo y cómo aplico buenas prácticas** en escenarios reales, más allá de la teoría.
-
----
-
-## 🧑‍💻 Perfil Profesional
-
-Ingeniero con experiencia técnica transversal, orientado a:
-
-- Confiabilidad y operación de sistemas
-- Automatización de procesos
-- Infraestructura y plataformas cloud
-- Control de versiones y trabajo colaborativo
-- Datos, bases de datos y analítica
-
-Perfil **hands-on**, enfocado en aprendizaje continuo, documentación clara y soluciones reproducibles.
+Perfil orientado a entornos productivos reales, no solo teóricos.
 
 ---
 
-## 🧠 Competencias Técnicas
+## 🧠 Resumen Profesional 
 
-Las competencias están organizadas por dominio, con documentación y evidencias prácticas.
+Site Reliability / DevOps Engineer con experiencia en:
 
-Ruta principal: `competencias/`
+- Operación de sistemas Linux
+- Automatización de tareas y flujos
+- Control de versiones con Git y GitHub
+- CI/CD con GitHub Actions
+- Contenedores y Docker
+- Cloud Computing (AWS, Azure, GCP, OCI)
+- Bases de datos relacionales y NoSQL
+- Documentación técnica clara y mantenible
+
+Fuerte orientación a **reducción de errores operativos**, **estabilidad** y **mejora continua**.
+
+---
+
+## 🛠️ Habilidades Técnicas
 
 ### Sistemas Operativos
-- Linux (comandos, scripting, servicios, usuarios, networking)
+- Linux (usuarios, servicios, procesos, networking, seguridad básica, scripting Bash)
 - Windows
 
-Ruta: `competencias/sistemas-operativos/`
-
----
+### DevOps / SRE
+- CI/CD
+- Automatización
+- GitOps (base)
+- Buenas prácticas DevOps
+- Observabilidad (fundamentos)
 
 ### Control de Versiones
-- Git y GitHub
-- Branching, Pull Requests e Issues
-- Evidencias reales de trabajo colaborativo
-- Automatización con GitHub Actions
-
-Ruta: `competencias/control-versiones/git-github/`
-
----
-
-### DevOps y Automatización
-- CI/CD
+- Git
+- GitHub
+- Branching strategies
+- Pull Requests
+- Issues
 - GitHub Actions
-- Buenas prácticas DevOps / SRE
-- Integración con Linux y cloud
-
-Ruta: `competencias/devops/`
-
----
 
 ### Contenedores
 - Docker
 - Docker Compose
-- Enfoque práctico para desarrollo y automatización
-
-Ruta: `competencias/contenedores-devops/`
-
----
 
 ### Cloud Computing
-- AWS
-- Azure
-- Google Cloud Platform
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
 - Oracle Cloud Infrastructure (OCI)
 
-Ruta: `competencias/cloud/`
-
----
-
 ### Bases de Datos
-- Relacionales: PostgreSQL, MySQL/MariaDB, SQL Server
-- No relacionales: MongoDB, Elasticsearch
-- Fundamentos, operación y uso práctico
+- PostgreSQL
+- MySQL / MariaDB
+- SQL Server
+- MongoDB
+- Elasticsearch
 
-Ruta: `competencias/bases-de-datos/`
-
----
-
-### Datos y Analítica
-- Python para datos
+### Datos & Analítica
+- Python
 - ETL
-- Visualización
-- Machine Learning (fundamentos)
-
-Ruta: `competencias/datos-analitica/`
-
----
+- Pandas
+- Visualización de datos
+- Fundamentos de Machine Learning
 
 ### Virtualización
 - VMware
 - Hyper-V
 - Xen
 
-Ruta: `competencias/virtualizacion/`
+---
+
+## 🧪 Experiencia Práctica Destacada
+
+- Laboratorios Linux reproducibles (usuarios, servicios, networking, storage, seguridad)
+- Scripts Bash orientados a operación real
+- Flujos de trabajo con GitHub Actions
+- Evidencias de trabajo colaborativo con GitHub
+- Automatización aplicada a escenarios reales
+
+Todo documentado en este repositorio.
 
 ---
 
-### IA Generativa
-- Uso aplicado como herramienta de apoyo técnico
-- Enfoque responsable y productivo
-
-Ruta: `competencias/ia-generativa/`
-
----
-
-## 🧪 Laboratorios Prácticos
-
-Este portafolio incluye **labs reproducibles**, especialmente en Linux, orientados a operación real:
-
-- Networking
-- Procesos
-- Servicios
-- Seguridad
-- Storage
-- Usuarios
-
-Ruta: `competencias/sistemas-operativos/linux/labs/`
-
-Cada lab incluye scripts y documentación asociada.
-
----
-
-## 🚀 Proyectos
-
-Proyectos técnicos donde se integran varias competencias:
+## 🚀 Proyectos Técnicos
 
 - Automatización DevOps
-- Infraestructura cloud
+- Infraestructura Cloud
 - Bases de datos
 - Analítica de datos
 
-Ruta: `proyectos/`
+📂 Ver carpeta `proyectos/`
 
 ---
 
 ## 🎓 Formación y Certificaciones
 
-Formación técnica continua, incluyendo programas formales y bootcamps.
-
-Rutas:
-- `formacion/`
-- `certificaciones/`
-
-Incluye, entre otros:
-
-- Oracle Next Education
-- Código Facilito
+- Oracle Next Education (ONE)
 - GitHub Foundations
-- VS Code y GitHub Copilot
+- Visual Studio Code & GitHub Copilot
+- Oracle Cloud Infrastructure (OCI Foundations)
+- Formación continua en DevOps, Cloud y Data
+
+📂 Ver `formacion/` y `certificaciones/`
 
 ---
 
-## 📄 Enfoque del Portafolio
+## 💡 Enfoque Profesional
 
-Este repositorio prioriza:
-
-- Documentación clara y honesta
-- Evidencias prácticas
-- Buenas prácticas profesionales
-- Estructura mantenible y escalable
-- Mentalidad SRE / DevOps
-
-No es un repositorio de ejercicios sueltos, sino un **portafolio vivo**, en constante evolución.
+- Mentalidad SRE
+- Automatización primero
+- Documentación como parte del sistema
+- Trabajo colaborativo
+- Aprendizaje continuo
 
 ---
 
 ## 📬 Contacto
 
-Ruta: `contacto/`
+Disponible en la sección `contacto/`  
+Repositorio actualizado y mantenido activamente.
 
 ---
 
-> La confiabilidad no es un objetivo, es una práctica diaria.  
-> Este portafolio refleja esa filosofía aplicada a sistemas reales.
-
----
-
-## ✅ Próximos pasos
-
-- Agregar más proyectos integradores
-- Expandir CI/CD y automatización
-- Profundizar labs SRE
-- Conectar proyectos con métricas y observabilidad
+**Keywords ATS:**  
+SRE, DevOps, Linux, Git, GitHub, CI/CD, Docker, Cloud Computing, AWS, Azure, GCP, OCI, Automation, Bash, PostgreSQL, MySQL, GitHub Actions
