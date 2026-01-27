@@ -1,151 +1,190 @@
-# Portafolio Técnico – Infraestructura, Cloud y Datos
+# 👋 Marcelo Castillo – Portafolio SRE / DevOps
 
-Hola 👋  
-Este repositorio reúne mi experiencia técnica, formación y proyectos prácticos en las áreas de **infraestructura, cloud computing, bases de datos y análisis de datos**, con un enfoque en **operación, diseño y arquitectura de sistemas**.
+Bienvenido a mi portafolio técnico.  
+Este repositorio documenta **competencias prácticas, formación y proyectos reales** enfocados en **Site Reliability Engineering (SRE)**, **DevOps**, **infraestructura**, **automatización** y **datos**.
 
-El portafolio tiene una **doble finalidad**:
-- 🔹 Mostrar mi perfil **profesional y técnico**
-- 🔹 Servir como **evidencia académica** para procesos de convalidación
-
-Todo el contenido está organizado por **competencias**, respaldado con proyectos, laboratorios y documentación.
+El objetivo es mostrar **qué sé hacer, cómo trabajo y cómo aplico buenas prácticas** en escenarios reales, más allá de la teoría.
 
 ---
 
-## 👤 Perfil Profesional
+## 🧑‍💻 Perfil Profesional
 
-Perfil técnico orientado a **infraestructura, cloud y datos**, con experiencia práctica trabajando con distintos sistemas, plataformas cloud y motores de bases de datos.
+Ingeniero con experiencia técnica transversal, orientado a:
 
-Mi enfoque se basa en:
-- Comprender los sistemas de forma integral
-- Diseñar soluciones operables y mantenibles
-- Priorizar buenas prácticas, automatización y documentación
-- Aprender de forma continua y aplicada
+- Confiabilidad y operación de sistemas
+- Automatización de procesos
+- Infraestructura y plataformas cloud
+- Control de versiones y trabajo colaborativo
+- Datos, bases de datos y analítica
 
----
-
-## 🧠 Áreas de Conocimiento
-
-### 🖥 Sistemas Operativos
-- **Linux**: administración por línea de comandos, servicios, networking, scripting y troubleshooting  
-- **Windows**: administración general, servicios, networking y virtualización  
-
-📂 [`competencias/sistemas-operativos`](competencias/sistemas-operativos)
+Perfil **hands-on**, enfocado en aprendizaje continuo, documentación clara y soluciones reproducibles.
 
 ---
 
-### ☁ Cloud Computing (Multi-Cloud)
-Experiencia trabajando con múltiples proveedores cloud, enfocada en conceptos y prácticas transversales:
+## 🧠 Competencias Técnicas
 
-- Oracle Cloud Infrastructure (OCI) *(certificación Foundations)*
-- Microsoft Azure
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
+Las competencias están organizadas por dominio, con documentación y evidencias prácticas.
 
-Competencias:
-- Cómputo, redes y almacenamiento
-- IAM y seguridad
-- Alta disponibilidad
-- Infraestructura como código (nivel introductorio/práctico)
-- Buenas prácticas y costos
+Ruta principal: `competencias/`
 
-📂 [`competencias/cloud`](competencias/cloud)
+### Sistemas Operativos
+- Linux (comandos, scripting, servicios, usuarios, networking)
+- Windows
+
+Ruta: `competencias/sistemas-operativos/`
 
 ---
 
-### 🗄 Bases de Datos
+### Control de Versiones
+- Git y GitHub
+- Branching, Pull Requests e Issues
+- Evidencias reales de trabajo colaborativo
+- Automatización con GitHub Actions
 
-#### Relacionales
-- PostgreSQL
-- MySQL / MariaDB
-- SQL Server
-
-Competencias:
-- Instalación y administración
-- Modelado de datos
-- SQL avanzado
-- Seguridad, backups y replicación
-
-#### No Relacionales
-- MongoDB
-- Elasticsearch
-
-📂 [`competencias/bases-de-datos`](competencias/bases-de-datos)
+Ruta: `competencias/control-versiones/git-github/`
 
 ---
 
-### 🖥 Virtualización
-- Xen
+### DevOps y Automatización
+- CI/CD
+- GitHub Actions
+- Buenas prácticas DevOps / SRE
+- Integración con Linux y cloud
+
+Ruta: `competencias/devops/`
+
+---
+
+### Contenedores
+- Docker
+- Docker Compose
+- Enfoque práctico para desarrollo y automatización
+
+Ruta: `competencias/contenedores-devops/`
+
+---
+
+### Cloud Computing
+- AWS
+- Azure
+- Google Cloud Platform
+- Oracle Cloud Infrastructure (OCI)
+
+Ruta: `competencias/cloud/`
+
+---
+
+### Bases de Datos
+- Relacionales: PostgreSQL, MySQL/MariaDB, SQL Server
+- No relacionales: MongoDB, Elasticsearch
+- Fundamentos, operación y uso práctico
+
+Ruta: `competencias/bases-de-datos/`
+
+---
+
+### Datos y Analítica
+- Python para datos
+- ETL
+- Visualización
+- Machine Learning (fundamentos)
+
+Ruta: `competencias/datos-analitica/`
+
+---
+
+### Virtualización
 - VMware
 - Hyper-V
+- Xen
 
-Competencias:
-- Gestión de máquinas virtuales
-- Redes y almacenamiento virtual
-- Laboratorios y entornos de prueba
-
-📂 [`competencias/virtualizacion`](competencias/virtualizacion)
+Ruta: `competencias/virtualizacion/`
 
 ---
 
-### 🐳 Contenedores y DevOps
-- Docker y Docker Compose
-- Linux orientado a DevOps
+### IA Generativa
+- Uso aplicado como herramienta de apoyo técnico
+- Enfoque responsable y productivo
+
+Ruta: `competencias/ia-generativa/`
+
+---
+
+## 🧪 Laboratorios Prácticos
+
+Este portafolio incluye **labs reproducibles**, especialmente en Linux, orientados a operación real:
+
 - Networking
-- CI/CD básico
+- Procesos
+- Servicios
+- Seguridad
+- Storage
+- Usuarios
 
-📂 [`competencias/contenedores-devops`](competencias/contenedores-devops)
+Ruta: `competencias/sistemas-operativos/linux/labs/`
 
----
-
-### 📊 Datos, ETL y Analítica
-- Python para Data Science
-- Pandas y NumPy
-- ETL
-- Visualización de datos
-- SQL analítico
-- Machine Learning aplicado
-
-📂 [`competencias/datos-analitica`](competencias/datos-analitica)
+Cada lab incluye scripts y documentación asociada.
 
 ---
 
-### 🤖 Inteligencia Artificial Generativa
-- Prompt engineering
-- Uso de IA en análisis de datos
-- Automatización y productividad
+## 🚀 Proyectos
 
-📂 [`competencias/ia-generativa`](competencias/ia-generativa)
+Proyectos técnicos donde se integran varias competencias:
+
+- Automatización DevOps
+- Infraestructura cloud
+- Bases de datos
+- Analítica de datos
+
+Ruta: `proyectos/`
 
 ---
 
-## 🛠 Proyectos Técnicos
+## 🎓 Formación y Certificaciones
 
-Los proyectos integran varias competencias y están documentados con:
-- Objetivo
-- Arquitectura
-- Tecnologías utilizadas
-- Decisiones técnicas
+Formación técnica continua, incluyendo programas formales y bootcamps.
+
+Rutas:
+- `formacion/`
+- `certificaciones/`
+
+Incluye, entre otros:
+
+- Oracle Next Education
+- Código Facilito
+- GitHub Foundations
+- VS Code y GitHub Copilot
+
+---
+
+## 📄 Enfoque del Portafolio
+
+Este repositorio prioriza:
+
+- Documentación clara y honesta
 - Evidencias prácticas
+- Buenas prácticas profesionales
+- Estructura mantenible y escalable
+- Mentalidad SRE / DevOps
 
-📂 [`proyectos`](proyectos)
-
----
-
-## 🎓 Formación y Evidencia Académica
-
-Incluye certificaciones, bootcamps y formaciones técnicas organizadas por competencia, junto con proyectos y laboratorios usados como evidencia para procesos de convalidación.
-
-📂 [`academico`](academico)
+No es un repositorio de ejercicios sueltos, sino un **portafolio vivo**, en constante evolución.
 
 ---
 
 ## 📬 Contacto
 
-- GitHub: https://github.com/mcastilloc
-- LinkedIn: *(agregar enlace)*
-
-📂 [`contacto`](contacto)
+Ruta: `contacto/`
 
 ---
 
-> Este portafolio se encuentra en evolución constante y refleja aprendizaje continuo aplicado a escenarios reales.
+> La confiabilidad no es un objetivo, es una práctica diaria.  
+> Este portafolio refleja esa filosofía aplicada a sistemas reales.
+
+---
+
+## ✅ Próximos pasos
+
+- Agregar más proyectos integradores
+- Expandir CI/CD y automatización
+- Profundizar labs SRE
+- Conectar proyectos con métricas y observabilidad
