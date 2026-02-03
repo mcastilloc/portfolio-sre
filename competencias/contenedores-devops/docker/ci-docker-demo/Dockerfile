@@ -7,4 +7,4 @@ COPY tests/ tests/
 
 RUN pip install --no-cache-dir pytest
 
-CMD ["python", "app/main.py"]
+CMD ["pytest"]

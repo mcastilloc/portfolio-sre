@@ -1,2 +1,4 @@
-def suma(a, b):
-    return a + b
+from app.calc import suma
+
+def test_suma():
+    assert suma(2, 3) == 5

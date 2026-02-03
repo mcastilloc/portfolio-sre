@@ -20,7 +20,7 @@ jobs:
 
       - name: Run tests
         run: |
-          docker run --rm ci-docker-demo:latest pytest
+          docker run --rm ci-docker-demo:latest
 
   cd:
     name: CD - Simulated Deploy
