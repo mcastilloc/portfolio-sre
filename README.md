@@ -1,4 +1,5 @@
-![CI/CD](https://github.com/mcastilloc/portfolio-sre/competencias/contenedores-devops/docker/ci-docker-demo/docker-build.yml/badge.svg)
+![CI/CD](https://github.com/mcastilloc/portfolio-sre/actions/workflows/docker-build.yml/badge.svg)
+
 
 
 # Marcelo Castillo  
