@@ -16,7 +16,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t ci-docker-demo:latest .
+          docker build -t ci-docker-demo:latest competencias/contenedores-devops/docker/ci-docker-demo
 
       - name: Run tests
         run: |
