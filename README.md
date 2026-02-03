@@ -1,5 +1,4 @@
-![CI/CD](https://github.com/mcastilloc/portfolio-sre/actions/workflows/docker-build.yml/badge.svg)
-
+![CI/CD](https://github.com/mcastilloc/portfolio-sre/competencias/contenedores-devops/docker/ci-ddocker-build.yml/badge.svg/ocker-demo/.github/workflows)
 
 # Marcelo Castillo  
 **Site Reliability Engineer (SRE) | DevOps Engineer | Cloud & Automation**
